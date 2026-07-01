@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../OOAD VSC TRY/tutorial 5/Tutorial 5 OOAD"
+		},
+		{
+			"path": "../OOAD VSC TRY/tutorial 0 OOAD"
+		},
+		{
+			"path": "../../Downloads/Smart-Equipment-Rental-Billing-System-prototype-main/Smart-Equipment-Rental-Billing-System-prototype-main"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "Tutorial 5 OOAD"
+	}
+}
